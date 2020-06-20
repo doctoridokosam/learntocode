@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/responsive.css">
+		<link rel="stylesheet" href="css/bonsi.css">
+		<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="css/font-awesome.css">
+		<link rel="stylesheet" href="css/flaticon.css">
+		<link rel="stylesheet" href="css/animate.css">
+		<link rel="stylesheet" href="owl/dist/assets/owl.carousel.css">
+	</head>
+	<body>
+		<!--NAVIGATION-->
+		<div id="myNavbar" class="navbar navbar-inverse" role="navigation">
+			<div class="container-fluid">
+				<div class="navbar-header">
+				<a class="navbar-brand"><i class="fa fa-phone" aria-hidden="true"></i> 08106600622</a>	
+				<a class="navbar-brand"><i class="fa fa-envelope" aria-hidden="true"></i> doctoridokosam@yahoo.com</a>	
+				</div >
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right" >
+					<li><i class="fa fa-facebook"></i></li>
+					<li><i class="fa fa-twitter"></i></li>
+					<li><i class="fa fa-google-plus"></i></li>
+					<li><i class="fa fa-linkedin"></i></li>
+					<li><span class="get">GET A QUOTE</span></li>
+					</ul>
+				</div>
+			</div>
+			</div>
+			<div id="myNavbar" class="navbar navbar-default" role="navigation">
+				<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							
+							</button>
+							<a href="#" class="navbar-brand"><img src="images/logo.png"></a>
+				</div>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a class="home" href="home">HOME</a></li>
+						<li><a class="about" href="about">ABOUT US</a></li>
+						<li><a class="service" href="services">SERVICES</a></li>
+						<li><a class="project" href="project">PROJECT</a> </li>
+						<li><a class="blog" href="blog">BLOG</a></li>
+						<li><a class="contact" href="#contact">CONTACT US</a></li>
+						<li><a class="search" href="#search"><i class="fa fa-search"></i></a></li>
+					</ul>
+
+				</div>
+			
+		</div>
+		
+		<!-- <div id="myNavbar1" class="nav navbar-default navbar-fixed-top" role="navigation"> -->
+				<!-- <div class="navbar-header"> -->
+							<!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> -->
+							<!-- <span class="icon-bar"></span> -->
+							<!-- <span class="icon-bar"></span> -->
+							<!-- <span class="icon-bar"></span> -->
+							
+							<!-- </button> -->
+							<!-- <a href="#" class="navbar-brand"><img src="images/logo.png"></a> -->
+				<!-- </div> -->
+				<!-- <div class="navbar-collapse collapse"> -->
+					<!-- <ul class="nav navbar-nav navbar-right"> -->
+						<!-- <li><a class="home" href="home">HOME</a></li> -->
+						<!-- <li><a class="about" href="about">ABOUT US</a></li> -->
+						<!-- <li><a class="service" href="services">SERVICES</a></li> -->
+						<!-- <li><a class="project" href="project">PROJECT</a> </li> -->
+						<!-- <li><a class="blog" href="blog">BLOG</a></li> -->
+						<!-- <li><a class="contact" href="#contact">CONTACT US</a></li> -->
+						<!-- <li><a class="search" href="#search"><i class="fa fa-search"></i></a></li> -->
+					<!-- </ul> -->
+
+				<!-- </div> -->
+			
+		<!-- </div> -->
+		
+		
+		
+		<!--END NAVIGATION-->
+		<!--header-->
+		<div id="header" class="header">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-md-6">
+						<h1 class="wow bounceInLeft" data-wow-delay="0.8s">Right planning <br>can give you real values!</h1>
+						<p class="wow fadeInUp" data-wow-delay="1s">We help our clients make lasting improvements on their performances <br> and realize their most improtant business goals</p>
+						<button class="btn btn-lg btn-primary wow bounceInLeft">See all services</button>
+						<button class="btn btn-lg  btn-default wow bounceInRight" data-wow-delay="0.6s">Learn more</button>
+					</div>
+					<div class="col-lg-6 col-md-6"></div>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		<!--end header-->
+		<!--section-->
+		
+		
+			<div id="section" class="section">
+			<div class="container">
+				<div class="row">
+					<h1>We work with the world's leading organizations to provide<br>collaborative solutions to your business</h1>
+				<section class="owl-carousel">
+					<div class="">
+					<img src="images/resource/services-5.jpg">
+						<h2>Management Consulting</h2>
+								<p>We offer management consulting services, with management and onground operational support, to help run your global operations.</p>
+					</div>
+						
+					<div class="">
+						<img src="images/resource/services-6.jpg">
+							<h2>Adnace Marketing</h2>
+								<p>We offer management consulting services, with management and onground operational support, to help run your global operations.</p>
+					</div>
+						
+					<div class="">
+						<img src="images/resource/services-7.jpg">
+							<h3>Effective Team Work</h3>
+								<p>We offer management consulting services, with management and onground operational support, to help run your global operations.</p>
+						
+					</div>
+						</section>
+				</div>
+			</div>
+			
+		</div>
+		
+		
+	
+		<!--cend section-->
+		<!---cover--->
+		<div id="cover" class="cover">
+				
+				<div class="row">
+					<div class="col-lg-5 one">
+					<div class="style">
+					<h1>Discover <br>Our Services</h1>
+					<P>We provide services to both public and private sector<br> entities around the world.</P>
+					<button class="btn btn-lg btn-default">LEARN MORE</button>
+					</div>
+					</div>
+					
+					
+					<div class="col-lg-7 two">
+					<div class="sheet">
+						<div class="col-lg-6">
+							<div class="col-lg-3">
+								<i class="fa flaticon-briefcase"></i>
+								<span class="number">01</span>
+							</div>
+							<div class="col-lg-9">
+								<h1>Banking Investment</h1>
+								<p>We offer management consulting service with including interim management and on ground operational support</p>
+							</div>
+							<div class="col-lg-3">
+								<i class="fa flaticon-invoice"></i>
+								<span class="number">03</span>
+							</div>
+							<div class="col-lg-9">
+								<h1>Google Analysis</h1>
+								<p>We offer management consulting service with including interim management and on ground operational support</p>
+							</div>
+							
+							
+						</div>
+						<div class="col-lg-6">
+						
+							<div class="col-lg-3">
+								<i class="fa flaticon-dollar-symbol"></i>
+								<span class="number">02</span>
+							</div>
+							<div class="col-lg-9">
+								<h1>Sales & Trading</h1>
+								<p>We offer management consulting service with including interim management and on ground operational support</p>
+							</div>
+							<div class="col-lg-3">
+								<i class="fa flaticon-profile"></i>
+								<span class="number">04</span>
+							</div>
+							<div class="col-lg-9">
+								<h1>Financial Advise</h1>
+								<p>We offer management consulting service with including interim management and on ground operational support</p>
+							</div>
+							
+							
+						</div>
+						
+					</div>
+					</div>
+				</div>
+					
+		</div>
+		<!--end cover-->
+		<!--BUSINESS-->
+		<div id="budiness" class="business">
+			<div class="row">
+				<div class="col-lg-6">
+					<img src="images/resource/image-1.jpg">
+				</div>
+				<div class="col-lg-6">
+					<h4>Our business experties Provide <br>you the great value</h4>
+					<p>Lorem ipsum dolor sit amet, vix an natum labitur eleifend, mel amet a great laorit menandri. Ei justo complectitur duo. Ei mundi solet ut soletu mel possit quo. Sea cu justo laudem.An utinam consulatu eos, est facilis suscipiantur te, vim te iudico delenit voluptatibus. Te eos accusam repudiandae.</p>
+					
+					<div class="col-lg-2"><img src="images/resource/author-1.jpg" class="img-circle"></div>
+					<div class="col-lg-6" class="ceo"><h4>Rashed ka.</h4><p>CEO & Founder of Bonsi</p></div>
+					<div class="col-lg-4"><img src="images/resource/signature.png"></div>
+					
+					
+				</div>
+			</div>
+		</div>
+	<!--end business-->
+	<!--count-->
+		<div id="count" class="count">
+			<div class="row">
+				<div class="col-lg-3 style">
+					<h1>1200+</h1>
+					<p>Completed Project</p>
+				</div>
+				<div class="col-lg-3 style1">
+					<h1>15+</h1>
+					<p>Years Expereince</p>
+				</div>
+				<div class="col-lg-3 style2">
+					<h1>458+</h1>
+					<p>Expert Worker</p>
+				</div>
+				<div class="col-lg-3 style3">
+					<h1>5</h1>
+					<p>Award Winner</p>
+				</div>
+			</div>
+		</div>
+		<!--end count-->
+		<!--client-->
+		<div id="client" class="client">
+			<div class="row">
+				<div class="col-lg-6 style">
+					<div class="style1">
+					<div class="row">
+						<h1>Client Feedback</h1>
+						<i class="fa fa-quote-left"></i>
+						<p class="feed">Bonsi business opportunity allows me to<br> hear directly from my customers.<br>Sometimes it allows client <br>like me to respond to problems while there<br> are still building 
+						</p>
+					
+					</div>	
+				<hr>
+						
+						<div class="row">
+						
+								<div class="col-lg-2">
+								</div>
+							<div class="col-lg-4 ">
+								<img src="images/resource/author-2.jpg" class="img-circle">
+								
+
+							</div>
+							<div class="col-lg-6 susan">
+								
+								<p>Susan Levy</p>
+								<p>Communications coordinator</p>
+
+							</div>
+						</div>
+					</div>
+				
+				</div>
+				<div class="col-lg-6 icon">
+					<div class="row">
+						<div class="col-lg-3">
+							<i class="fa flaticon-invoice"></i>
+						</div>
+						<div class="col-lg-9">
+							<h2>Trsuted Vendor</h2>
+							<p>Looking cautiously round, to ascertain that they were not overheard, the two hags cowered.</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-3">
+							<i class="fa flaticon-profile"></i>
+						</div>
+						<div class="col-lg-9">
+							<h2>Professional Advisor</h2>
+							<p>Looking cautiously round, to ascertain that they were not overheard, the two hags cowered.</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-3">
+							<i class="fa fa-trophy"></i>
+						</div>
+						<div class="col-lg-9">
+							<h2>Award's Winner</h2>
+							<p>Looking cautiously round, to ascertain that they were not overheard, the two hags cowered.</p>
+						</div>
+					</div>
+				
+				
+				
+				
+					
+					
+				</div>
+			</div>
+		</div>
+	<!--end client-->
+	<!--work-->
+	<div id="work" class="work">
+		<div class="row">
+			<h3>Latest Work</h3>
+			<p>We have shown here all of our latest works, for more information click on the see all button</p>
+		<div class="row style">
+			
+			<div class="col-lg-4"><img src="images/gallery/1.jpg"></div>
+			<div class="col-lg-4"><img src="images/gallery/2.jpg"></div>
+			<div class="col-lg-4"><img src="images/gallery/3.jpg"></div>
+			
+		</div>
+		<div class="row style">
+			<div class="col-lg-4"><img src="images/gallery/4.jpg"></div>
+			<div class="col-lg-4"><img src="images/gallery/5.jpg"></div>
+			<div class="col-lg-4"><img src="images/gallery/6.jpg"></div>
+		</div>
+		<button class="btn btnn-lg btn-success">See all projects</button>
+		</div>
+	</div>
+	<!--end work-->
+	<!--news-->
+	<div id="news" class="news">
+		<div class="row">
+			<h1>Latest News</h1>
+			<div class="col-lg-4 style">
+			
+			
+					
+					<div class="row">	
+					
+					<div class="col-lg-8"><img src="images/resource/news-1.jpg"> </div>
+					<div class="col-lg-4 date">28 Apr, 2016</div>
+					
+					</div>
+					<div class="row">
+						<p>	<span>Posted By </span>Rashed Ka.</p>
+						<h2>Share Your Idea with Us</h2><br>
+						<p>The ship set ground on the shore of desert isle<br> with Gilligan the Skipper and wife...<br><span>More Details</span></p>
+					</div>
+			</div>
+			<div class="col-lg-4 style1">
+			
+					<div class="row">
+						<div class="col-lg-8"><img src="images/resource/news-2.jpg"> </div>
+					<div class="col-lg-4 date">28 Apr, 2016</div>
+					
+					</div>
+					<div class="row">
+						<p>	<span>Posted By </span>Rashed Ka.</p>
+						<h2>Share Your Idea with Us</h2><br>
+						<p>The ship set ground on the shore of desert isle<br> with Gilligan the Skipper and wife...<br><span>More Details</span></p>
+					</div>
+				
+			</div>
+			<div class="col-lg-4 style2">
+					<div class="row">
+								<div class="col-lg-8"><img src="images/resource/news-2.jpg"> </div>
+					<div class="col-lg-4 date">28 Apr, 2016</div>
+
+					</div>
+					<div class="row">
+						<p>	<span>Posted By</span>Rashed Ka.</p>
+						<h2>Share Your Idea with Us</h2><br>
+						<p>The ship set ground on the shore of desert isle<br> with Gilligan the Skipper and wife...<br><span>More Details</span></p>
+					</div>
+			
+				
+			</div>
+		</div>
+	</div>
+	<!--end news-->
+	<!--purchase-->
+	<div id="purchase" class="purchase">
+		<div class="row">
+			<div class="col-lg-9">
+				<h1>We are the best business consulting company ever!!</h1>
+			</div>
+			<div class="col-lg-3">
+			<button class="btn btn-lg">Purchase Now</button>
+			</div>
+		</div>
+	</div>
+	
+	<!--end purchase-->
+	<!--request-->
+	<div id="request" class="request">
+		<div class="row">
+			<div class="col-lg-4 free">
+				<span><h1>Request</h1></span>
+				<h2>Free Consultation</h2>
+				<p>Any kind of business, finance & consultion d <br>hesitate to contact with us for imiditate & quick<br> customer support.</p>
+				<p><span>Call Us</span> for imiditate support this number</p>
+				<h3><span>+880 876 65 455</span></h3>
+			</div>
+			<div class="col-lg-4 ">
+				<h1>Drop Your Message</h1>
+				<div class="input-group input-group-lg drop">
+						
+						<input type="text" class="form-control" aria-describedby="sizing-addon1" placeholder="User Name*" >
+				</div>
+				<div class="input-group input-group-lg drop">
+						
+						<input type="text" class="form-control" aria-describedby="sizing-addon1" placeholder="Email*" >
+				</div>
+				<div class="input-group input-group-lg drop">
+						
+						<input type="text" class="form-control" aria-describedby="sizing-addon1" placeholder="Subject of Discuss*" >
+				</div>
+				<div><button class="btn btn-lg btn-success">GET FREE CONSULTATION</button></div>
+			</div>
+			<div class="col-lg-4">
+				<div class="input-group message">
+						<textarea  placeholder="Your Message*" id="" cols="50" rows="10" class="form-control"></textarea>
+					</div>
+			</div>
+		</div>
+	</div>
+	<!--end request-->
+	<!--next-->
+	<div id="next" class="next">
+		<div class="row">
+			<div class="col-lg-3 image"><img src="images/clients/3.png"></div>
+			<div class="col-lg-3 image1"><img src="images/clients/4.png"></div>
+			<div class="col-lg-3 image2"><img src="images/clients/1.png"></div>
+			<div class="col-lg-3 image3"><img src="images/clients/2.png"></div>
+		</div>
+	</div>
+	<!--next-->
+	<!--address-->
+	<div id="address" class="address">
+		<div class="footer">
+		
+		
+		<div>
+			<div class="row">
+			<div class="col-lg-4 colum">
+				<div><img src="images/logo-footer.png"></div>
+				<p>Bonsi is a global consulting firm with a twist. We<br> bring big ideas and challenge the norm. We <br>work with our clients, not at them.</p>
+					<div class="form-group">
+					<input class="email" type="email" placeholder="Enter Your Email "><button class="btn btn-lg"><i class="fa fa-angle-right"></i></button>
+					</div>
+					
+			</div>
+			<div class="col-lg-4">
+				<div class="col-lg-6">
+					<h1>Quick Links</h1>
+					<p>Privacy Policy<br>Terms & Condition<br>Support<br>Contact Us</p>
+				</div>
+				<div class="col-lg-6">
+					<h1>Information</h1>
+					<p>About us<br>Customer<br>Service<br>Collection<br>Blog<br>BestSellers</p>
+				</div>
+			</div>
+			<div class="col-lg-4 colum">
+								
+								
+				<h1>Our Address</h1>
+				<div class="row">
+						<div class="col-lg-3">
+								<i class="fa fa-home grant"> </i>
+								<br>
+								<i class="fa fa-phone grant"></i>
+								<br>
+								<i class="fa fa-envelope grant"></i>
+						</div>
+						<div class="col-lg-9 grant1">
+						
+							<p>60 Grant Ave. Central New <br>Road 0708, UK</p>
+							<p> +880 1723 801 729</p>
+							<p> bonsico346@email.com</p>
+						</div>
+							
+			
+				
+				</div>
+								<div class="row">
+									<i class="fa fa-facebook icon" aria-hidden="true"></i>
+						<i class="fa fa-twitter icon"></i>
+						<i class="fa fa-google-plus icon"></i>
+						<i class="fa fa-dribbble icon"></i>
+						<i class="fa fa-pinterest icon" aria-hidden="true"></i>
+						</div>
+								
+			
+			
+				
+			</div>
+		
+		
+		</div>
+		</div>
+		<hr>
+		
+		<div class="about">
+			<div class="row">
+				<div class="col-lg-3 login">
+				<P>@ 2017 <span class="us">Bonsi Inc</span> All Rights Reserved.</P>
+				</div>
+				<div class="col-lg-6">
+					
+				</div>
+					<div class="col-lg-3 ">
+						<p><span >About us</span>| <span>FAQ's</span>| <span>Login</span></p>
+				</div>
+				
+				
+			</div>
+			
+		</div>
+		
+		</div>
+	</div>
+	<!--end address-->
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		 <script src="js/jquery.js"></script>
+		 <script src="js/bonsi.js"></script>
+		 <script src="js/bootstrap.min.js"></script>
+		 <script src="js/wow.js"></script>
+		 <script src="owl/dist/owl.carousel.js"></script>
+		  new WOW().init();
+		  
+		  
+		  <script>
+		  
+		  
+			$("document").ready(function(){
+	$('.owl-carousel').owlCarousel();
+	
+
+	
+ });
+ 
+ 
+			var owl11 = $('.owl-carousel');
+			owl11.owlCarousel({
+				items:2,
+				loop:true,
+				margin:10,
+				autoplay:true,
+				autoplayTimeout:4000,
+				autoplayHoverPause:true
+				
+			});
+			
+			$('.play').on('click',function(){
+				owl11.trigger('play.owl.autoplay',[1000])
+			})
+			$('.stop').on('click',function(){
+				owl11.trigger('stop.owl.autoplay');
+			});
+
+
+			
+		  </script>
+		  
+	</body>
+
+
+
+</html>
